@@ -1,4 +1,4 @@
-# projetoADS-AV2
+# projetoLPA-AV2
 EQUIPE:
 * Danilo
 * Diogo
