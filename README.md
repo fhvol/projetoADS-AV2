@@ -6,3 +6,4 @@ EQUIPE:
 * Fabiano
 * Mateus
 # PROJETO 1 PACMAN
+O código deve ser executado através do terminal com o comando python pacman.py
