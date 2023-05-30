@@ -1,10 +1,10 @@
 # projetoLPA-AV2 - Turma ADS 1º Período - Noite
 EQUIPE:
-* Danilo Borges
-* Diogo Martins
-* Ithalo Barbosa
-* Fabiano Oliveira
-* Mateus Filipe
+* Danilo Borges - 01344631
+* Diogo Martins - 01630970
+* Ithalo Barbosa - 01593842
+* Fabiano Oliveira - 01049363
+* Mateus Filipe - 01597916
 # PROJETO 1 PACMAN
 # Como executar o Pacman:
 1º Instalar a IDE do VS Code.
